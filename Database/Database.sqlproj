@@ -60,10 +60,12 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Functions\" />
     <Folder Include="dbo\User Defined Types\" />
+    <Folder Include="dbo\Stored Procedures\" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\campaign_label.sql" />
     <Build Include="dbo\Functions\campaign_label_find_udf.sql" />
     <Build Include="dbo\User Defined Types\IntListType.sql" />
+    <Build Include="dbo\Stored Procedures\campaign_label_find_sp.sql" />
   </ItemGroup>
 </Project>

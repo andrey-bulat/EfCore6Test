@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContextTest", "ContextTest\
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Database", "Database\Database.sqlproj", "{8BDEAE0C-6159-4CA3-B245-86D1D80DE207}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextEfCore3", "ContextEfCore3\ContextEfCore3.csproj", "{244A6EB1-1C17-4FE9-BB3C-3DBED1BB2B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextTestEfCore3", "ContextTestEfCore3\ContextTestEfCore3.csproj", "{D9D78D10-0E3E-4F36-A743-5BB4DD99AF1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{8BDEAE0C-6159-4CA3-B245-86D1D80DE207}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BDEAE0C-6159-4CA3-B245-86D1D80DE207}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8BDEAE0C-6159-4CA3-B245-86D1D80DE207}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{244A6EB1-1C17-4FE9-BB3C-3DBED1BB2B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244A6EB1-1C17-4FE9-BB3C-3DBED1BB2B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244A6EB1-1C17-4FE9-BB3C-3DBED1BB2B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244A6EB1-1C17-4FE9-BB3C-3DBED1BB2B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D78D10-0E3E-4F36-A743-5BB4DD99AF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D78D10-0E3E-4F36-A743-5BB4DD99AF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D78D10-0E3E-4F36-A743-5BB4DD99AF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D78D10-0E3E-4F36-A743-5BB4DD99AF1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

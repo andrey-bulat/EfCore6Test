@@ -1,5 +1,5 @@
 ﻿{
-   "CodeGenerationMode": 2,
+   "CodeGenerationMode": 1,
    "ContextClassName": "Shared_CampaignContext",
    "ContextNamespace": null,
    "DefaultDacpacSchema": null,
@@ -20,10 +20,6 @@
       {
          "Name": "[dbo].[campaign_label_find_sp]",
          "ObjectType": 1
-      },
-      {
-         "Name": "[dbo].[campaign_label_find_udf]",
-         "ObjectType": 2
       }
    ],
    "UiHint": "abulat-nb.EfCore6Test.dbo",
